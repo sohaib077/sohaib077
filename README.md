@@ -2,7 +2,10 @@
 
 <div align="center">
 
-**5+ production apps** on the App Store & Google Play &nbsp;·&nbsp; **20,000+ players** &nbsp;·&nbsp; **Arabic-first & RTL**
+### Shipping production Flutter across mobile and web since 2023
+
+Five apps live on the App Store and Google Play, serving 20,000+ users across Egypt and the Gulf.
+Specialising in real-time systems, native platform integration, and Arabic-first product design.
 
 <br/>
 
@@ -52,51 +55,51 @@ class Sohaib extends MobileEngineer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,androidstudio,firebase,nodejs,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,c,cpp,androidstudio,firebase&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,gitlab,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,sqlite,postgres,git,github,vscode,postman&theme=dark" />
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Mobile**
+**📱 &nbsp;Mobile**
 
-`Flutter` `Dart`
-`Bloc / Cubit` `RxDart`
-`Clean Architecture`
-`MethodChannel`
-`Native Android (Java)`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc_/_Cubit-1E88E5?style=flat-square&logo=dart&logoColor=white)
+![RxDart](https://img.shields.io/badge/RxDart-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00897B?style=flat-square&logo=buffer&logoColor=white)
+![MethodChannel](https://img.shields.io/badge/MethodChannel-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Native Android](https://img.shields.io/badge/Native_Android-F89820?style=flat-square&logo=openjdk&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+**☁️ &nbsp;Backend & Cloud**
 
-**Backend & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF8F00?style=flat-square&logo=firebase&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-5A0FC8?style=flat-square&logo=serverfault&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black)
 
-`Firebase` `Firestore`
-`Cloud Functions` `FCM`
-`Node.js` `REST`
-`WebSockets` `SSE`
-`Supabase` `PocketBase`
+**🚀 &nbsp;Delivery & Ops**
 
-</td>
-<td valign="top" width="33%">
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Shorebird](https://img.shields.io/badge/Shorebird_Code_Push-13B9FD?style=flat-square&logo=flutter&logoColor=white)
+![Build Flavors](https://img.shields.io/badge/Build_Flavors-6C63FF?style=flat-square&logo=gradle&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white)
 
-**Delivery**
-
-`Fastlane` `CI/CD`
-`Shorebird code-push`
-`Build flavors`
-`Sentry` `Crashlytics`
-`App Store` `Play Store`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -160,6 +163,17 @@ Host-authoritative state model eliminating duplicate-play and race conditions. A
 </td>
 </tr>
 </table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sohaib077&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=13B9FD&icon_color=02569B" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib077&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=13B9FD" />
+
+</div>
 
 <br/>
 
