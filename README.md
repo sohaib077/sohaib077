@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=680&lines=5%2B+production+apps+on+the+App+Store+%26+Google+Play;20%2C000%2B+players+across+shipped+products;Arabic-first%2C+RTL%2C+built+to+scale;Flutter+·+Dart+·+Native+Android+·+Firebase" alt="Typing SVG" />
+**5+ production apps** on the App Store & Google Play &nbsp;·&nbsp; **20,000+ players** &nbsp;·&nbsp; **Arabic-first & RTL**
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/sohaib-mahmoud-814aa6177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sohaibmahmoud06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,37 +16,35 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
+```dart
+class Sohaib extends MobileEngineer {
+  @override
+  final String location = 'Cairo, Egypt 🇪🇬';
+
+  @override
+  final String company = 'Hatching Ducks';
+
+  @override
+  List<String> get focus => [
+        'Real-time systems — WebSockets, SSE, multiplayer state sync',
+        'Native bridging — MethodChannel into the Android SDK',
+        'Payments & security — gateways, Cloud Functions, encryption',
+        'Arabic-first products — RTL from the design system up',
+      ];
+
+  @override
+  Future<Product> build(Idea idea) async {
+    final architecture = CleanArchitecture(state: Bloc());
+    final product = await architecture.ship(idea);
+
+    return product
+      ..monitor(Sentry())
+      ..iterate();
+  }
+}
 ```
-┌──(sohaib㉿flutter)-[~]
-└─$ whoami
 
-  Name     : Sohaib Mahmoud Ahmed
-  Role     : Mobile Software Engineer
-  Based    : Cairo, Egypt 🇪🇬
-  Company  : Hatching Ducks
-
-┌──(sohaib㉿flutter)-[~]
-└─$ cat focus.txt
-
-  [+] Cross-Platform Development   →  Flutter / Dart / iOS / Android / Web
-  [+] Architecture                 →  Clean Architecture / Bloc / Cubit
-  [+] Real-Time Systems            →  WebSockets / SSE / Firebase RTDB
-  [+] Native Bridging              →  MethodChannel / Android SDK / Java
-  [+] Payments & Security          →  Gateways / Cloud Functions / Encryption
-
-┌──(sohaib㉿flutter)-[~]
-└─$ cat shipped.txt
-
-  >> 5+ production apps  |  20,000+ players  |  Arabic-first & RTL
-
-┌──(sohaib㉿flutter)-[~]
-└─$ echo $MOTTO
-
-  "Ship it, monitor it, then make it faster."
-
-┌──(sohaib㉿flutter)-[~]
-└─$ █
-```
+> I build the parts of mobile that aren't UI — synchronizing state across four clients in real time, bridging into platform APIs when the plugin ecosystem runs out, and making sure a payment can't be charged twice. Most of my work ships to Arabic-speaking markets, so RTL isn't an afterthought in anything I design.
 
 <br/>
 
