@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=650&lines=Mobile+Software+Engineer;Flutter+%7C+Dart+%7C+Native+Android;5%2B+apps+live+on+the+App+Store+%26+Google+Play;Arabic-first%2C+RTL%2C+built+to+ship" alt="Typing SVG" />
+# Sohaib Mahmoud Ahmed
 
-<br/>
+**Mobile Software Engineer — Flutter**
 
-![Profile views](https://komarev.com/ghpvc/?username=sohaib077&label=Profile+Views&color=02569B&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/sohaib077?label=Followers&style=flat-square&color=02569B&labelColor=0D1117)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -142,29 +143,6 @@ Host-authoritative state model eliminating duplicate-play and race conditions. A
 </td>
 </tr>
 </table>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sohaib077&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib077&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib077&langs_count=8&theme=radical&layout=compact&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=sohaib077&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
