@@ -11,7 +11,7 @@ Specialising in real-time systems, native platform integration, and Arabic-first
 
 <a href="https://www.linkedin.com/in/sohaib-mahmoud-814aa6177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sohaibmahmoud06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<!--<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>-->
 
 </div>
 
